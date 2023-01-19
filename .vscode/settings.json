@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "blink",
+    "editor.cursorSmoothCaretAnimation": false,
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.preferredHighContrastColorTheme": "GitHub Light",
+    "screencastMode.fontSize": 50
+}
